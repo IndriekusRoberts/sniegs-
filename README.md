@@ -1,0 +1,1 @@
+# Kad lieto kodu, jāstartē terminālis, lai redzēt skaitļus.
